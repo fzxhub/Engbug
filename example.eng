@@ -1,0 +1,60 @@
+{
+    "Calibration": {
+        "ByteOrder": "LSB First",
+        "Protocol": "CCP",
+        "RxEx": "Standard",
+        "RxID": "681",
+        "TxEx": "Standard",
+        "TxID": "680"
+    },
+    "CanTrace": {
+        "FilterList": [
+        ],
+        "Transmit": [
+        ]
+    },
+    "Diagnostics": {
+        "CycleFrame": "31 01 F5 18",
+        "CycleTime": "20",
+        "Protocol": "UDS",
+        "RxEx": "Standard",
+        "RxID": "7E8",
+        "Step": [
+            {
+                "Ctrl": "Run",
+                "Data1": "",
+                "Data2": "",
+                "Item1": "None",
+                "Item2": "None",
+                "Path": "",
+                "Service": "10 Session",
+                "UseID": "PHY"
+            },
+            {
+                "Ctrl": "Run",
+                "Data1": "",
+                "Data2": "",
+                "Item1": "None",
+                "Item2": "None",
+                "Path": "",
+                "Service": "10 Session",
+                "UseID": "PHY"
+            },
+            {
+                "Ctrl": "Run",
+                "Data1": "",
+                "Data2": "",
+                "Item1": "None",
+                "Item2": "None",
+                "Path": "",
+                "Service": "10 Session",
+                "UseID": "PHY"
+            }
+        ],
+        "TxFunEx": "Standard",
+        "TxFunID": "7DF",
+        "TxPhyEx": "Standard",
+        "TxPhyID": "7E0"
+    },
+    "Version": "Engbug V1.2.0"
+}
