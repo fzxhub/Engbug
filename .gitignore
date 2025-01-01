@@ -1,0 +1,11 @@
+.DS_Store
+.qtc_clangd
+debug
+*.pro.user
+*.Debug
+*.Release
+Release
+.vs
+build*
+Temp
+
